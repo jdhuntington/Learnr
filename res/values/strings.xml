@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Learnr!</string>
+	<string name="app_name">Learnr</string>
+	<string name="button1">Get an image</string>
+</resources>
